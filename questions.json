@@ -1,0 +1,32 @@
+[
+  {
+    "question": "What is the capital of Maryland?",
+    "answers": ["Annapolis"],
+    "fun_fact": "Annapolis is also known for the United States Naval Academy."
+  },
+  {
+    "question": "What bay is famous in Maryland for blue crabs?",
+    "answers": ["Chesapeake Bay", "The Chesapeake Bay"],
+    "fun_fact": "The Chesapeake Bay is the largest estuary in the United States."
+  },
+  {
+    "question": "What city is the largest in Maryland?",
+    "answers": ["Baltimore"],
+    "fun_fact": "Baltimore is nicknamed Charm City."
+  },
+  {
+    "question": "What colorful food seasoning is strongly connected with Maryland seafood?",
+    "answers": ["Old Bay", "Old Bay Seasoning"],
+    "fun_fact": "Many Marylanders sprinkle Old Bay on crabs, fries, and more."
+  },
+  {
+    "question": "What is Maryland's state bird?",
+    "answers": ["Baltimore oriole", "Oriole", "The Baltimore oriole"],
+    "fun_fact": "The Baltimore oriole shares its colors with the Baltimore Orioles baseball team."
+  },
+  {
+    "question": "What is Maryland's nickname?",
+    "answers": ["Old Line State", "The Old Line State"],
+    "fun_fact": "The nickname honors Maryland troops who served with courage in the Revolutionary War."
+  }
+]
